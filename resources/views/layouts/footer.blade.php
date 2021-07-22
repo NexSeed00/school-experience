@@ -11,8 +11,6 @@
   <div class="c-footer-nav">
     <ul class="c-footer-nav__main">
       <li><a href="home">ホーム</a></li>
-      <li><a href="curriculum">カリキュラム内容</a></li>
-      <li><a href="price">日程・料金</a></li>
     </ul>
     <ul class="c-footer-small-nav">
       <li><a href="">プライバシーポリシー</a></li>
