@@ -5,15 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description">
-    <meta property="og:title" content="メタタイトルが入ります">
-    <meta property="og:type" content="website">
+    <meta property="og:title" content="">
+    <meta property="og:type" content="">
     <meta property="og:url" content="https://seed-tech-school.com">
-    <meta property="og:image" content="https://seed-tech-school.com/assets/images/common/ogp.png">
-    <meta property="og:site_name" content="シードテックスクール">
+    <meta property="og:image" content="">
+    <meta property="og:site_name" content="">
     <meta property="og:description" content="トップページの説明が入ります">
     <meta property="og:country-name" content="philippines">
     <meta property="fb:app_id" content="">
-    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:card" content="">
 
     @yield('scriptldjson')
 

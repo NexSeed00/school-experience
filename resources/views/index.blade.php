@@ -186,25 +186,5 @@
         <figure class="c-panel__img"><img src="assets/images/home/support-3.jpg" alt="" width="573" height="360"></figure>
         </section>
     </section>
-    <div class="u-bg--pink p-section-content--default">
-        <section class="l-container">
-        <h3 class="p-heading--center">信頼の掲載実績</h3>
-        <p class="p-text--center">現在までに下記の企業、大学様との提携実績があります。（一部掲載）</p>
-        <ul class="p-logo">
-            <li><img src="assets/images/home/logo-1.png"></li>
-            <li><img src="assets/images/home/logo-2.png"></li>
-            <li><img src="assets/images/home/logo-3.png"></li>
-            <li><img src="assets/images/home/logo-4.png"></li>
-            <li><img src="assets/images/home/logo-5.png"></li>
-            <li><img src="assets/images/home/logo-6.png"></li>
-            <li><img src="assets/images/home/logo-7.png"></li>
-            <li><img src="assets/images/home/logo-8.png"></li>
-            <li><img src="assets/images/home/logo-9.png"></li>
-            <li><img src="assets/images/home/logo-10.png"></li>
-            <li><img src="assets/images/home/logo-11.png"></li>
-            <li><img src="assets/images/home/logo-12.png"></li>
-        </ul>
-        </section>
-    </div>
     </div>
 @endsection
