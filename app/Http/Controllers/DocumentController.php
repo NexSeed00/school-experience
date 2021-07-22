@@ -4,11 +4,12 @@ namespace App\Http\Controllers;
 
 use App\Customer;
 use Illuminate\Http\Request;
+use App\Http\Requests\DocumentRequest;
 
 class DocumentController extends Controller
 {
     //
-    public function send(Request $request)
+    public function send(DocumentRequest $request)
     {
         $customer = new Customer();
         $customer->name = $request->last . $request->first;
