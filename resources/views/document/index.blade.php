@@ -1,7 +1,7 @@
 @extends('layouts.main')
 
 @section('scriptldjson')
-<script src="assets/js/document.js" defer></script>
+
 @endsection
 
 @section('content')
@@ -87,4 +87,5 @@
       <li><a href="">TOP</a></li>
       <li>資料請求</li>
     </ol>
+
 @endsection

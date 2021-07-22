@@ -19,7 +19,6 @@
 
     <link href="https://fonts.googleapis.com/css?family=Noto+Sans&amp;display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/index.css">
-
   </head>
   <body>
 
@@ -31,5 +30,7 @@
     <!-- /main -->
 
     @include('layouts.footer')
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="{{ asset('assets/js/app.js') }}"></script>
   </body>
 </html>
