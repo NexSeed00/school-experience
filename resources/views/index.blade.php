@@ -1,7 +1,7 @@
 @extends('layouts.main')
 
 @section('scriptldjson')
-{{-- <script src="assets/js/index.js" defer></script> --}}
+
 @endsection
 
 @section('content')
