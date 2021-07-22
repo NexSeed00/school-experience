@@ -53,10 +53,6 @@
             <dd class="c-form__body__control">
                 <input type="email" placeholder="test＠gmail.com">
             </dd>
-            <dt class="c-form__body__title">メールアドレス(確認用) <span class="c-form__required">必須</span></dt>
-            <dd class="c-form__body__control">
-                <input type="email" placeholder="test＠gmail.com">
-            </dd>
             <dt class="c-form__body__title">電話 <span class="c-form__required">必須</span></dt>
             <dd class="c-form__body__control">
                 <input type="tell" placeholder="09012345678">
